@@ -2,7 +2,7 @@
 
 
 
-Nov: Racket Gamejam 2019 https://itch.io/jam/racket-2019-gamejam (in progress)
+November: Racket Gamejam 2019 https://itch.io/jam/racket-2019-gamejam (in progress)
 
 December: Advent of Code!
 
