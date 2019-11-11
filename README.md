@@ -1,21 +1,25 @@
-# plan
-schedule
-
-* in progress https://itch.io/jam/racket-2019-gamejam
+# proposed plan
 
 
-Jan: text adventure! - based on https://m-cacm.acm.org/magazines/2012/1/144809-creating-languages-in-racket/fulltext
 
-Feb: DrRacket quickscripts scripting comp 
+Nov: Racket Gamejam 2019 https://itch.io/jam/racket-2019-gamejam (in progress)
 
-Mar: RPG/roguelike
+December: Advent of Code!
 
-Apr: simulations (conways life,big-bang/universe etc)
+January: DrRacket quickscripts scripting competition 
 
-May: solvers with Rosette (maybe in a game context)
+February: Text adventure! (based on https://m-cacm.acm.org/magazines/2012/1/144809-creating-languages-in-racket/fulltext)
 
-June: little language competition?
+March: RPG/roguelike (robotfindskitten...rogue...Ultima IV...FF-XVIII)  (monster #lang?/ map description #lang's?)
 
-July: music! build a song or a drum machine or s synth or a #lang for supercollider library 
+April: simulations/simulation #lang's (conways life,big-bang/universe etc)
 
-Aug: Summer picture competition!
+May: Simple solver langs with Rosette? (maybe in a game context)
+
+June: Bots Bots Bots / bot #lang's
+
+July: music! build a song or a drum machine or s synth or a #lang for supercollider library / procedural generation?
+
+August: Summer picture competition! / procedural generation?
+
+September: ...
