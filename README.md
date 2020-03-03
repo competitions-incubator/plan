@@ -18,6 +18,7 @@ Other event suggestions
 * music! build a song or a drum machine or s synth or a #lang for supercollider library / procedural generation?
 * procedural generation? (dinosaurs, lindenmayer, ...)
 
+Live/in-person events
 
 * Meet up (can be as small as London Racket Meet-up)
 * Dive Into Racket / Beautiful Racket / Games (based on https://activate.mozilla.community/en-US/rust-hack)
