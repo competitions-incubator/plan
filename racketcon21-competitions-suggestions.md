@@ -15,4 +15,6 @@
 * DSL comp - sample programme - competition to write to the language - 
 * Mystery languages- unknown semantics try to figure out how the program works
 * APL in racket 
+* rosette 
+* 
 
