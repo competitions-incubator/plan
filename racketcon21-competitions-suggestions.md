@@ -6,5 +6,5 @@
 * DSL Comp
 * ppict Progressive Picts and Slides - Ben  https://docs.racket-lang.org/ppict/index.html
 * scribble competition
-* scribble renderers competition - RyanC
+* scribble renderers competition - Ben
 * competition idea = make slides or slide animation or slideshow templates/styles - ben
