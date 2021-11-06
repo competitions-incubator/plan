@@ -7,4 +7,8 @@
 * ppict Progressive Picts and Slides - Ben  https://docs.racket-lang.org/ppict/index.html
 * scribble competition
 * scribble renderers competition - Ben
-* competition idea = make slides or slide animation or slideshow templates/styles - ben
+* competition idea = make slides or slide animation or slideshow templates/styles - benG, Eric Ervin
+
+* slideshow keynote style from Jens
+https://gist.github.com/soegaard/3885803de6abf816e1d4f5f7435cc98c
+
